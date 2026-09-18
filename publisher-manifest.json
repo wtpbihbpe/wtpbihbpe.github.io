@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "b0115f34f0180322673daed5",
+  "owner": "wtpbihbpe",
+  "repo": "wtpbihbpe.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "57fd88defdc15fa518b2ec2d",
+      "a": "X",
+      "b": "官网",
+      "entity": "X",
+      "brand": "官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0f0d0bbee399c8cdafc9e680cda05d7ad6f3877be041ddab4018ee4ee2464261",
+      "content": {
+        "primary_entity": "X",
+        "keyword1": "X",
+        "keyword2": "官网",
+        "content": {
+          "AI_HERO_SUBTITLE": "轻量接入，稳定跨区",
+          "AI_HERO_INTRO": "X 提供多档海外加速套餐，覆盖个人到团队场景。按设备数量、月流量与线路类型对比基础版、旗舰版和团队版，再结合订阅周期选择合适方案。",
+          "AI_VISUAL_TITLE": "X 加速套餐速览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月流量从 100GB 到 1000GB",
+          "AI_HIGHLIGHT_3": "旗舰版与团队版支持专线优化",
+          "AI_DESCRIPTION": "，以套餐分层匹配不同使用强度。基础版每月 100GB 流量、支持 3 台设备；旗舰版 300GB、5 台设备并带 IPLC 专线；团队版 1000GB、20 台设备与定制路由。按年付可享对应年度价格，先确认设备数再来挑线路。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURES_INTRO": "从流量、设备和线路三个角度对比，能更快锁定版本。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合轻度网页与流媒体，旗舰版 300GB 覆盖日常多任务。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台三档并发，团队版可满足多终端同时在线。",
+          "AI_FEATURE_TITLE_3": "按线路需求升级",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速，团队版增加 VIP 高带宽节点。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别为 ¥150、¥350、¥850。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，桌面端与移动端分别对照配置文档。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "先选服务，再核对设备适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量确定基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认系统版本与客户端支持范围，避免订阅导入失败。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按所选客户端的文档导入订阅链接，完成节点连接。",
+          "AI_CLOSING_TITLE": "选对套餐，接入更顺",
+          "AI_CLOSING_TEXT": "先明确设备数，再对照流量选版本，然后到套餐列表查看年付方案。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。流量为极速流量，适合不同强度的日常使用。",
+          "AI_FAQ_ANSWER_2": "在对应客户端中导入订阅链接即可完成配置。不同系统的客户端操作略有差异，建议依照客户端自身文档完成导入。",
+          "AI_FAQ_ANSWER_3": "单账号同时在线设备数由套餐决定，基础版 3 台、旗舰版 5 台、团队版 20 台。超出后可减少同时在线设备或升级套餐。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，适合有流媒体与游戏需求的用户；团队版提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FAQ_ANSWER_5": "按月付为 ¥15、¥35、¥85；按年付分别为基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。长期使用可按年付降低月均成本。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何把订阅配置导入客户端？",
+          "AI_FAQ_QUESTION_3": "一个账号可以同时登录多少台设备？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版更适合什么场景？",
+          "AI_FAQ_QUESTION_5": "套餐价格和计费周期是怎样的？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "53ab8b3062c4a614a488b5ff2621b5a32a4614fcdc09c9f012856d8c56d090f4",
+    "sitemap.xml": "284a235f357291b93fcc351b5422c7bebf3527b058e70f42f76b6b50cd325b37",
+    "robots.txt": "f2f5e1df955d284382bb800dcfab4c8a967c8f1618e470a561fbb31e121d2454",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "d580facb1f0111a38e886f1d690fddaeffea4033750b262b2f48f9163100093a"
+}
